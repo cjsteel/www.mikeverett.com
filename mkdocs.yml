@@ -1,0 +1,12 @@
+site_name: mikeverett.com
+site_url: https://mikeverett.com/
+nav:
+#  - articles: articles/index.md
+  - books: books/index.md
+#  - consulting: consulting/index.md
+#  - newsletter: newsletter/index.md
+  - about: about/index.md
+theme:
+  name: material
+  features:
+    - navigation.tabs
